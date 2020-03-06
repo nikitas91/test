@@ -1,3 +1,5 @@
-console.log("index");
+function add(x, y) {
+    return x + y;
+}
 
-console.log("index");
+console.log(add(1, 2));
