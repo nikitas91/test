@@ -1,5 +1,5 @@
-console.log("another");
+function subtract(x, y) {
+    return x - y;
+};
 
-console.log("another");
-
-console.log("some work here");
+console.log(subtract(10, 5));
