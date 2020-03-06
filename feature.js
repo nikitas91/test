@@ -1,3 +1,1 @@
-console.log("feature");
-
-console.log("feature");
+console.log("this is an updated feature file");
